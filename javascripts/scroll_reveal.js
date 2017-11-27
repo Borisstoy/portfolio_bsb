@@ -1,0 +1,1 @@
+var fooReveal={origin:"top",delay:50,easing:"ease-in-out",scale:1.1};window.sr=ScrollReveal(),sr.reveal("#montreel-rv"),sr.reveal("#rhythm-rv",fooReveal),sr.reveal("#ony-rv",fooReveal),sr.reveal("#discpod-rv",fooReveal),sr.reveal(".biky-rv",fooReveal),sr.reveal("#coq-rv",fooReveal);

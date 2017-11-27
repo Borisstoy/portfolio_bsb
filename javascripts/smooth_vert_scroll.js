@@ -1,0 +1,1 @@
+$(function(){$(".horizontal-scroll-wrapper").mousewheel(function(e,l){this.scrollLeft-=30*l,e.preventDefault()})});
